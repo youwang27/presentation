@@ -17,7 +17,7 @@ Cumulative Prospect Theory
 
 - Probability Weighting Under CPT
 - CPT $L=(p_1:x_1, p_2:x_2, ..., p_n:x_n)$
-- CPT(L)=$ \sum_{i=1} w_i*U(x_i)$
+- CPT(L)= $\sum_{i=1} w_i*U(x_i)$
 
 
 
